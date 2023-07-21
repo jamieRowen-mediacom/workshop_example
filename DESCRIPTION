@@ -1,0 +1,16 @@
+Package: workshopr
+Title: Example code for a workshop
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jamie", "Owen", , "jamie.owen@essencemediacom", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Random functions that are useless except for talking to people about how
+    to write packages.
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    dplyr,
+    magrittr,
+    rlang
